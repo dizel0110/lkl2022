@@ -2,7 +2,7 @@
 В репозитории находится DS часть решения задачи 10 хакатона https://leaders2022.innoagency.ru/  
 (Лидеры Цифровой информации 2022).  
 
-![alt text](https://github.com/dizel0110/lkl2022/logo/lkl2022.jpg?raw=true)
+![alt text](https://github.com/dizel0110/lkl2022/blob/main/logo/lkl2022.jpg?raw=true)
 
 Участвую в команде https://github.com/Volnaya-Neva, - в этом гитхабе представлено всё решение, кроме данной части.
 
