@@ -6,6 +6,7 @@
 
 Участвую в команде https://github.com/Volnaya-Neva, - в этом гитхабе представлено всё решение, кроме данной части.
 
+![alt text](https://github.com/dizel0110/lkl2022/blob/main/logo/Volnaya-Neva.jpg?raw=true)
 
 На данный момент в папках:  
 - Q10/data представлен аналитический отчёт по реестру домов, согласно исходным данным из ТЗ  
